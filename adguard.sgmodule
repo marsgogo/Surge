@@ -3,4 +3,4 @@
 
 [General]
 doh-server = https://dns.adguard.com/dns-query
-dns-server = 94.140.14.14, 94.140.15.15
+
