@@ -4,3 +4,4 @@
 [General]
 doh-server = https://dns.adguard.com/dns-query
 doh-server = https://dns.alidns.com/dns-query
+doh-server = https://doh.pub/dns-query
