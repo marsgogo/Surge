@@ -3,4 +3,5 @@
 
 [General]
 doh-server = https://dns.adguard.com/dns-query
-
+doh-server = https://dns.alidns.com/dns-query
+dns-server = 223.5.5.5, 223.6.6.6
