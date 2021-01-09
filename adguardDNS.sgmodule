@@ -1,4 +1,4 @@
-#!name=DNS
+#!name=adguardDNS
 #!desc=Enable DNS over HTTPS (DoH).
 
 [General]
