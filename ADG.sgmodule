@@ -1,0 +1,5 @@
+#!name=DNS
+#!desc=Enable DNS over HTTPS (DoH).
+
+[General]
+doh-server = https://dns.adguard.com/dns-query
