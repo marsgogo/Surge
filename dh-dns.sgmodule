@@ -1,4 +1,4 @@
-#!name=aliDNS
+#!name=DH-DNS
 #!desc=Enable DNS over HTTPS (DoH).
 
 [General]
