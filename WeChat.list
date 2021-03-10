@@ -4,8 +4,8 @@
 # HOST-SUFFIX: 4
 # USER-AGENT: 1
 # TOTAL: 2
-HOST-SUFFIX,extshort.weixin.qq.com
-HOST-SUFFIX,dns.weixin.qq.com
-HOST-SUFFIX,short.weixin.qq.com
-HOST-SUFFIX,minorshort.weixin.qq.com
-USER-AGENT,MicroMessenger Client
+DOMAIN-SUFFIX,extshort.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,minorshort.weixin.qq.com
+USER-AGENT,MicroMessenger Client*
