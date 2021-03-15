@@ -1,0 +1,5 @@
+#!name=GoogleDNS
+#!desc=Enable DNS over HTTPS (DoH).
+
+[General]
+doh-server = https://dns.google/dns-query
