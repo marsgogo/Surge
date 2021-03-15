@@ -1,0 +1,5 @@
+#!name=CloudflareDNS
+#!desc=Enable DNS over HTTPS (DoH).
+
+[General]
+doh-server = https://1.1.1.1/dns-query
